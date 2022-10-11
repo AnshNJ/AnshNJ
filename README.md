@@ -44,7 +44,7 @@
 </div>
 
 ### 🎺 Vibing to:
-[![Spotify](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL?si=ac8daa3967c741a6)
+[![Spotify](https://novatorem-rbkjoiojv-sudip5banerjee1974-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL?si=ac8daa3967c741a6)
 
 ***
 ### 🛠️ Languages and Tools :
