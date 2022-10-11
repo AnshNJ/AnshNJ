@@ -15,10 +15,6 @@
    </a>
  </div>
  
- <div>
-  <img src="https://komarev.com/ghpvc/?username=AnshNJ&style=flat-square&color=red" alt="profile-views"/>
- </div>
- 
  ***
 </div>
 <div align="center">
