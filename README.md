@@ -32,14 +32,13 @@
 
 
 - #### 🔭 I’m currently an undergrad in Marwadi University,Gujarat.
-- #### 🌱 I’m currently exploring JS frameworks.
+- #### 🌱 I’m currently working and studying about front-end technologies.
 - #### 🎨 I also work as a Freelance Artist! Check out my work (https://www.instagram.com/kraasikco/)
 - #### 👯 I’m looking to collaborate on *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
 - #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshnj/)
 - #### 🏢 *Open to opportunities*
 - #### 😄 Pronouns: He/Him
-- #### ⚡ Favorite Anime: Steins;Gate
 
 </div>
 
