@@ -28,13 +28,12 @@
 
 <div align="left">
 
-### I am a Front-end <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a freelance Artist! Learning tools to transition into a Full-stack dev
+### I am a Front-end Web-dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently undergoing DSA training! Learning tools to transition into a Full-stack dev
 
 
-- #### 🔭 I’m currently an undergrad in Marwadi University,Gujarat.
-- #### 🌱 I’m currently working and studying about front-end technologies.
-- #### 🎨 I also work as a Freelance Artist! Check out my work (https://www.instagram.com/kraasikco/)
-- #### 👯 I’m looking to collaborate on *Open Source Projects*
+- #### 🔭 I have graduated from Marwadi Education Foundation, Gujarat under Gujarat Technological University in 2022.
+- #### 🌱 I’m currently building DSA skills to implement and improve my logic building.
+- #### 👯 I’m open to collaborating in *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
 - #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshnj/)
 - #### 🏢 *Open to opportunities*
