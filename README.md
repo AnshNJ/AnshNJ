@@ -31,8 +31,8 @@
 ### I am a Front-end Web-dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently undergoing DSA training! Learning tools to transition into a Full-stack dev
 
 
-- #### 🔭 I have graduated from Marwadi Education Foundation, Gujarat under Gujarat Technological University in 2022.
-- #### 🌱 I’m currently building DSA skills to implement and improve my logic building.
+- #### 🔭 I am a 2022 graduate with a specialization in Bachelor of Engineering.
+- #### 🌱 I am currently honing my data structures and algorithms (DSA) skills to enhance my logical reasoning and problem-solving abilities. I also possess knowledge in Web-Technologies as well as database management and have worked with various tools in the past!
 - #### 👯 I’m open to collaborating in *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
 - #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshnj/)
