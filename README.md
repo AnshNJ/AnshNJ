@@ -28,7 +28,7 @@
 
 <div align="left">
 
-### I am a Front-end Web-dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently undergoing DSA training! Learning tools to transition into a Full-stack dev
+### I am a Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently undergoing DSA training! Learning tools to transition into a Full-stack dev
 
 
 - #### 🔭 I am a 2022 graduate with a specialization in Bachelor of Engineering.
